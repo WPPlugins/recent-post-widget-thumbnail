@@ -1,0 +1,57 @@
+body[dir="rtl"] .rpwt-thumbnail {
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+.rpwt-wrapper img {
+	width: 100%;
+	max-width: 100%;
+}
+
+.rpwt-wrapper {
+	padding: 0;
+}
+
+.rpwt-wrapper li {
+	list-style-type: none;
+	margin: 0 !important;
+	padding: 6px 0 15px !important;
+	list-style: none;
+	border-top: 1px solid #eee;
+}
+
+.rpwt-wrapper li .rptw-item {
+	padding-bottom: 10px;
+	padding-top: 17px;
+}
+
+.rptw-item {
+	display: flex;
+}
+
+.rpwt-thumbnail {
+	max-width: 30%;
+	margin-right: 10px;
+}
+
+.rpwt-widget-title {
+	font-size: 15px;
+	font-weight: bold;
+	line-height: normal;
+	margin: 0;
+	padding: 0;
+}
+
+.rpwt-widget-date {
+	font-size: 12px;
+	line-height: 1.8em;
+}
+
+.rpwt-content {
+	max-width: 70%;
+}
+
+.rpwt-excerpt {
+	line-height: 1.7em;
+	margin: 10px 0 0;
+}

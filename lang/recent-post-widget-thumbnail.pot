@@ -1,0 +1,31 @@
+# Copyright (C) 2016 Fernando
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Recent Post Widget Thumbnail\n"
+"POT-Creation-Date: 2016-03-24 17:04-0700\n"
+"PO-Revision-Date: 2016-03-24 16:57-0700\n"
+"Last-Translator: fernando villamor <fervillz@gmail.com>\n"
+"Language-Team: Fernando Villamor <fervillz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../widgets\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: recent-post-core.php\n"
+
+#: recent-post-core.php:12
+msgid "Latest Post with Thumbnails"
+msgstr ""
+
+#: recent-post-core.php:13
+msgid "Recent Posts with Thumbnail"
+msgstr ""
+
+#: recent-post-core.php:32
+msgid "Recent Posts"
+msgstr ""
